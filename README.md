@@ -1,2 +1,2 @@
 # iris_classifier
-a machine learning project using git
+This repository holds a small Ml project for IRIS data classification
